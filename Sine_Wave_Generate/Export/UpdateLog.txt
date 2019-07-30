@@ -1,0 +1,9 @@
+- Sine_Wave_Generate_V1.0.exe
+
+1.指定3个参数: 点的个数、y的最小值、y的最大值，输出对应的正弦序列表
+2.自动输出到txt文件中
+
+- Sine_Wave_Generate_V1.1.exe
+
+1.添加文件头和文件尾，可以直接输出ROM_Sine.v文件
+2

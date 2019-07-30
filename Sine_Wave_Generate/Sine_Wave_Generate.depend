@@ -1,10 +1,11 @@
 # depslib dependency file v1.0
-1564482364 source:e:\git_project\wave_generate\sine_wave_generate\main.cpp
+1564486122 source:e:\git_project\wave_generate\sine_wave_generate\main.cpp
 	"main.h"
 
-1564477288 e:\git_project\wave_generate\sine_wave_generate\main.h
+1564485687 e:\git_project\wave_generate\sine_wave_generate\main.h
 	<iostream>
 	<math.h>
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
 
