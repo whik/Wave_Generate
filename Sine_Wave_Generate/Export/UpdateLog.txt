@@ -5,5 +5,4 @@
 
 - Sine_Wave_Generate_V1.1.exe
 
-1.添加文件头和文件尾，可以直接输出ROM_Sine.v文件
-2
+1.文件末尾添加生成时间戳
