@@ -22,7 +22,7 @@ void SineWaveGen(int x_N, int y_min, int y_max)
         fprintf(fp, "%d : data <= %d;\n", x, (int )(y+0.5));
     }
     fclose(fp);
-    printf("数据成功输出到sin_data.txt\n");
+    printf("//数据成功输出到sin_data.txt\n");
 }
 
 //argc:参数个数, argv:参数保存的数组
